@@ -66,7 +66,8 @@ A cross-platform mobile movie discovery app built using **Expo (React Native)**,
 
 | Home Page | Movie Details | Search Page |
 |-----------|----------------|--------------|
-| ![](./WhatsApp%20Image%202025-07-02%20at%202.51.18%20AM.jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM%20(2).jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.33%20AM.jpeg) |
+| ![WhatsApp Image 2025-07-02 at 2 51 33 AM](https://github.com/user-attachments/assets/2fdff5af-ae5f-40bb-a45d-c686f3305b53)
+ | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM%20(2).jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.33%20AM.jpeg) |
 | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM%20(1).jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM.jpeg) |
 
 ---
