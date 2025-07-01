@@ -1,5 +1,10 @@
 # 🎬 React Native Movie App (with TMDB + Appwrite)
 
+![Platform](https://img.shields.io/badge/platform-expo-lightgrey?logo=expo)
+![License](https://img.shields.io/badge/license-MIT-purple)
+![Status](https://img.shields.io/badge/status-active-success)
+![Made with](https://img.shields.io/badge/Made%20with-React%20Native-blue?logo=react)
+
 A cross-platform mobile movie discovery app built using **Expo (React Native)**, powered by **TMDB API** for movie data and **Appwrite** for backend functionality like saving favorite movies.
 
 > 🚀 Inspired by the awesome [React Native Movie App Tutorial by JavaScript Mastery](https://www.youtube.com/watch?v=f8Z9JyB2EIE)
@@ -59,9 +64,10 @@ A cross-platform mobile movie discovery app built using **Expo (React Native)**,
 
 ## 🖼 Screenshots
 
-| Home Page | Movie Details | Save Button |
-|-----------|----------------|-------------|
-| (add GIFs or screenshots here later) |
+| Home Page | Movie Details | Search Page |
+|-----------|----------------|--------------|
+| ![](./WhatsApp%20Image%202025-07-02%20at%202.51.18%20AM.jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM%20(2).jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.33%20AM.jpeg) |
+| ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM%20(1).jpeg) | ![](./WhatsApp%20Image%202025-07-02%20at%202.51.19%20AM.jpeg) |
 
 ---
 
