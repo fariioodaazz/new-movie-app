@@ -66,11 +66,8 @@ A cross-platform mobile movie discovery app built using **Expo (React Native)**,
 
 | Movie Details | Search Page | Home Page |
 |-----------|----------------|--------------|
-| ![WhatsApp Image 2025-07-02 at 2 51 19 AM (2)](https://github.com/user-attachments/assets/47adb272-fca2-4d55-9eb1-21a2267aa05b)
-| ![WhatsApp Image 2025-07-02 at 2 51 19 AM](https://github.com/user-attachments/assets/50365f9a-66a7-4a59-8e28-3dd061d225dc)
-| ![WhatsApp Image 2025-07-02 at 2 51 33 AM](https://github.com/user-attachments/assets/2fdff5af-ae5f-40bb-a45d-c686f3305b53)
-| ![WhatsApp Image 2025-07-02 at 2 51 19 AM (1)](https://github.com/user-attachments/assets/0aeda07d-5cd5-4234-8404-7955062a5674)
-|![WhatsApp Image 2025-07-02 at 2 51 18 AM](https://github.com/user-attachments/assets/090a52cc-9ad0-41aa-8d93-bce441ba55da)|
+| ![WhatsApp Image 2025-07-02 at 2 51 19 AM (2)](https://github.com/user-attachments/assets/47adb272-fca2-4d55-9eb1-21a2267aa05b)| ![WhatsApp Image 2025-07-02 at 2 51 19 AM](https://github.com/user-attachments/assets/50365f9a-66a7-4a59-8e28-3dd061d225dc)| ![WhatsApp Image 2025-07-02 at 2 51 33 AM](https://github.com/user-attachments/assets/2fdff5af-ae5f-40bb-a45d-c686f3305b53)
+| ![WhatsApp Image 2025-07-02 at 2 51 19 AM (1)](https://github.com/user-attachments/assets/0aeda07d-5cd5-4234-8404-7955062a5674)|![WhatsApp Image 2025-07-02 at 2 51 18 AM](https://github.com/user-attachments/assets/090a52cc-9ad0-41aa-8d93-bce441ba55da)|
 
 ---
 
